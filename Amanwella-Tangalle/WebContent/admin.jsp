@@ -242,7 +242,7 @@
               <div class="extra content">
                 <div class="ui two buttons">
                   <div class="ui red button" style="color:white;">
-                  <a href="res_sevlet"><div class="ui red button" >Reservation Management</div></a>
+                  <a href="res_sevlet"><div class="ui red button" >Room Reservation Management</div></a>
                 </div>
                 </div>
               </div>

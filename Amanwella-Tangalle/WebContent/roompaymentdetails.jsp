@@ -20,7 +20,6 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <link rel="stylesheet" href="css/admin.css">
 <link rel="stylesheet" href="css/nav.css">
-<link rel="stylesheet" href="Reservation/css/room/veriregcss.css">
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -161,13 +160,15 @@ function closeNav() {
                     <li class="page-item"><a href="#" class="page-link">5</a></li>
                     <li class="page-item"><a href="#" class="page-link">Next</a></li>
                 </ul>
-               
             </div>
-             	<div class="form-submit">
+            
+        </div>
+        <div class="form-submit">
                    <a href="ReservationsReport.jsp" class="btn btn-primary" style="margin-left: 600px">Get report</a>
               	</div>
-        </div>
     </div>
-    		<!--  <a href="ReservationsReport.jsp" class="btn btn-primary" style="margin-left: 600px">Get report</a>-->
+    			
+    		<!-- <a href="ReservationsReport.jsp" class="btn btn-primary" style="margin-left: 600px">Get report</a> -->
 </body>
+				
 </html>
