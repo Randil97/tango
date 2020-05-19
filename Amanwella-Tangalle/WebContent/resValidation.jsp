@@ -70,6 +70,13 @@
  
       <div class="container">
         <div class="row">
+        
+        		<div class="signup-img">
+                    <img src="img/Room/1.jpg" alt=""><br>
+                    <div class="signup-img-content">
+                    </div>
+                </div>
+                
           <div class="col-md-7" data-aos="fade-up" data-aos-delay="100">
             
             <form action="room_payment" method="post" class="bg-white p-md-5 p-4 mb-5 border">
@@ -124,7 +131,8 @@
         <div class="container">
             <div class="signup-content">
                 <div class="signup-img">
-                    <img src="img/Room/v7.jpg" alt="">
+                    <img src="img/Room/q2.jpg" alt=""><br>
+                    <img src="img/Room/q4.jpg" alt="">
                     <div class="signup-img-content">
                     </div>
                 </div>
@@ -156,7 +164,7 @@
 				<input type="hidden" name="checkin_date" value="${obj.getCheck_in()}">
          		<input type="hidden" name="checkout_date" value="${obj.getCheck_out()}">
                         <div class="form-row">
-                         <h1>Verify Your Details......!</h1><br><br>
+                         <h1>Verify Your Details......</h1><br><br>
                          
                             <div class="form-group">
                                 <div class="form-input">
