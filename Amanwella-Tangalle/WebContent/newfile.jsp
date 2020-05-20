@@ -89,13 +89,13 @@
 			
 			
 		</article>
-		<div class="footer-item">
+		<!-- <div class="footer-item">
                         
                         <ul>
                             <li><img src="img/placeholder.png" alt="">Boddhi Mawatha,<br />Wella Wathuara,<br />Godellawela, <br />Tangalle,<br />Sri Lanka<br/></li><br />
                             <li><img src="img/phone.png" alt="">+94 (47) 224 1333 </br>  amanwella@aman.com</li>
                         </ul>
-                    </div>
+                    </div> -->
 
 
 
