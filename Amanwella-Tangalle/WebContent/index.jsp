@@ -46,7 +46,7 @@
 	          <li class="nav-item"><a href="" class="nav-link"><h6>Restaurant</h6></a></li>
 	          <li class="nav-item"><a href="" class="nav-link"><h6>Inventories</h6></a></li>
 	          <li class="nav-item"><a href="" class="nav-link"><h6>Tours</h6></a></li>
-	          <li class="nav-item"><a href="" class="nav-link"><h6>Contact-Us</h6></a></li>
+	          <li class="nav-item"><a href="contact_home.jsp" class="nav-link"><h6>Contact-Us</h6></a></li>
 	          
 	        </ul>
 	      </div>

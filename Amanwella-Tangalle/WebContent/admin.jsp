@@ -213,7 +213,7 @@
               </div>
               <div class="extra content">
                 <div class="ui two buttons">
-                  <div class="ui green button">Customer Feedback Management</div>
+                  <a href="contact_us"><div class="ui green button">Customer Feedback Management</div></a>
                 </div>
               </div>
             </div>
