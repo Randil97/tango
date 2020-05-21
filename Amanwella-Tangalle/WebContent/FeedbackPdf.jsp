@@ -30,7 +30,7 @@
 			conn = DriverManager.getConnection(
 					"jdbc:mysql://localhost:3306/amanwella", "root", "");
 			
-			String report = "C:/Users/W Naween Tharuka/JaspersoftWorkspace/MyReports/Feedback.jrxml";
+			String report = "C:/Users/Randil gurusinghe/JaspersoftWorkspace/MyReports/contactreport.jrxml";
 			
 			JasperReport jasperreport = JasperCompileManager
 					.compileReport(report);

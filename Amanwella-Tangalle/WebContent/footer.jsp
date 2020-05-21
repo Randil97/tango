@@ -15,15 +15,15 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat+Alternates:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
     <!-- Css Styles -->
-   <link rel="stylesheet" href="css/foothead/css/bootstrap.min.css" type="text/css">
-    <link rel="stylesheet" href="css/foothead/css/font-awesome.min.css" type="text/css">
-    <link rel="stylesheet" href="css/foothead/css/flaticon.css" type="text/css">
-    <link rel="stylesheet" href="css/foothead/css/owl.carousel.min.css" type="text/css">
-    <link rel="stylesheet" href="css/foothead/css/jquery-ui.min.css" type="text/css">
-    <link rel="stylesheet" href="css/foothead/css/nice-select.css" type="text/css">
-    <link rel="stylesheet" href="css/foothead/css/magnific-popup.css" type="text/css">
-    <link rel="stylesheet" href="css/foothead/css/slicknav.min.css" type="text/css">
-    <link rel="stylesheet" href="css/foothead/css/style.css" type="text/css">
+   <link rel="stylesheet" href="Reservation/css/foothead/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="Reservation/css/foothead/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="Reservation/css/foothead/css/flaticon.css" type="text/css">
+    <link rel="stylesheet" href="Reservation/css/foothead/css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="Reservation/css/foothead/css/jquery-ui.min.css" type="text/css">
+    <link rel="stylesheet" href="Reservation/css/foothead/css/nice-select.css" type="text/css">
+    <link rel="stylesheet" href="Reservation/css/foothead/css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="Reservation/css/foothead/css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="Reservation/css/foothead/css/style.css" type="text/css">
 
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
@@ -68,7 +68,7 @@
                     <div class="col-lg-12">
                         
                         <ul>
-                            <li class="active"><a href="./index.html">Home</a></li>
+                            <li><a href="./index.html">Home</a></li>
                             <li><a href="#">Gallery</a></li>
                             <li><a href="#">Accommodation</a></li>
                             <li><a href="#">Event And Activities</a></li>
@@ -91,13 +91,13 @@
     <!-- Footer Section End -->
 
     <!-- Js Plugins -->
-    <script src="js/headfoot/js/jquery-3.3.1.min.js"></script>
-    <script src="js/headfoot/js/bootstrap.min.js"></script>
-    <script src="js/headfoot/js/jquery.magnific-popup.min.js"></script>
-    <script src="js/headfoot/js/jquery-ui.min.js"></script>
-    <script src="js/headfoot/js/jquery.nice-select.min.js"></script>
-    <script src="js/headfoot/js/jquery.slicknav.js"></script>
-    <script src="js/headfoot/js/owl.carousel.min.js"></script>
-    <script src="js/headfoot/js/main.js"></script>
+    <script src="Reservation/js/headfoot/js/jquery-3.3.1.min.js"></script>
+    <script src="Reservation/js/headfoot/js/bootstrap.min.js"></script>
+    <script src="Reservation/js/headfoot/js/jquery.magnific-popup.min.js"></script>
+    <script src="Reservation/js/headfoot/js/jquery-ui.min.js"></script>
+    <script src="Reservation/js/headfoot/js/jquery.nice-select.min.js"></script>
+    <script src="Reservation/js/headfoot/js/jquery.slicknav.js"></script>
+    <script src="Reservation/js/headfoot/js/owl.carousel.min.js"></script>
+    <script src="Reservation/js/headfoot/js/main.js"></script>
 </body>
 </html>

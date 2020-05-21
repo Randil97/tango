@@ -96,7 +96,7 @@
                 <div class="col-md-6 form-group">
                   <label for="adults" class="font-weight-bold text-black">Adults :</label>
                   <div class="field-icon-wrap">
-                    <input type="number" name="adults" max="5" class="form-control" min="0" value="${obj.getAdults()}" required="required" readonly="readonly">
+                    <input type="number" name="adults" max="10" class="form-control" min="0" value="${obj.getAdults()}" required="required" readonly="readonly">
                    
                   </div>
                 </div>

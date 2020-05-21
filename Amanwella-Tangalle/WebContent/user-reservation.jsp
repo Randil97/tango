@@ -95,7 +95,7 @@
 						<div class="field-icon-wrap">
                     <!-- <div class="icon"><span class="ion-ios-arrow-down"></span></div> -->
                     
-                    <input type="number" name="adults" max="5" class="form-control" min="0" required="required">
+                    <input type="number" name="adults" max="10" class="form-control" min="0" required="required">
                   
                   </div>
 					</div>
@@ -103,7 +103,7 @@
 						<label for="adults" class="font-weight-bold text-black">Children :</label>
 						<div class="field-icon-wrap">
                     <!--  <div class="icon"><span class="ion-ios-arrow-down"></span></div>-->
-                    <input type="number" name="children" max="5" min="0" class="form-control" required="required">
+                    <input type="number" name="children" max="10" min="0" class="form-control" required="required">
                    
                   </div>
 					</div>
@@ -111,7 +111,7 @@
 						<label for="Room Count" class="font-weight-bold text-black">Room Count :</label>
 						<div class="field-icon-wrap">
                     <!--  <div class="icon"><span class="ion-ios-arrow-down"></span></div>-->
-                    <input type="number" name="room_count" max="5" min="0" class="form-control" required="required">
+                    <input type="number" name="room_count" max="10" min="0" class="form-control" required="required">
                   
                   </div>
 					</div>

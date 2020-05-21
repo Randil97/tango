@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException;
+//import com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException;
 
 import dao.ReservationDao;
 import dao.ReservationDaoImpl;
@@ -55,9 +55,7 @@ public class res_sevlet extends HttpServlet {
 			int num_of_days = (int) TimeUnit.DAYS.convert(diff,TimeUnit.MILLISECONDS);
 			r.setNum_of_days(num_of_days);
 		  
-		  } catch (ParseException e) { 
-			  e.printStackTrace(); 
-		} catch (java.text.ParseException e) { 
+		  } catch (java.text.ParseException e) { 
 			e.printStackTrace(); 
 		}
 		

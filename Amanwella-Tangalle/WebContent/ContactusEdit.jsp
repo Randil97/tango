@@ -26,7 +26,7 @@
    </script>
 <body>
 	    <jsp:include page="header.jsp"></jsp:include>
-	    <div style="background-image: url('images/bgpic.jpg');">
+	    <div style="background-image: url('Contactus/images/bgpic.jpg');">
 	    	<br/><br/><br/><br/><br/><br/>
 	    
 		<div class="container-contact100">

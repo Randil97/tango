@@ -186,6 +186,27 @@
     <url-pattern>/inventory_servlet</url-pattern>
   </servlet-mapping>
   
+  <servlet>
+    <description></description>
+    <display-name>inventory_count</display-name>
+    <servlet-name>inventory_count</servlet-name>
+    <servlet-class>Controllers.inventory_count</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>inventory_count</servlet-name>
+    <url-pattern>/inventory_count</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>inventory_change</display-name>
+    <servlet-name>inventory_change</servlet-name>
+    <servlet-class>Controllers.inventory_change</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>inventory_change</servlet-name>
+    <url-pattern>/inventory_change</url-pattern>
+  </servlet-mapping>
+  
   
   <servlet>
     <description></description>
@@ -338,7 +359,7 @@
   
   
   
-  <servlet>
+  <!-- <servlet>
     <description></description>
     <display-name>contact_us</display-name>
     <servlet-name>contact_us</servlet-name>
@@ -347,7 +368,7 @@
   <servlet-mapping>
     <servlet-name>contact_us</servlet-name>
     <url-pattern>/contact_us</url-pattern>
-  </servlet-mapping>
+  </servlet-mapping> -->
   
   
   
@@ -365,7 +386,7 @@
 
 
 
-<servlet>
+<!-- <servlet>
     <description></description>
     <display-name>contactusDelete</display-name>
     <servlet-name>contactusDelete</servlet-name>
@@ -374,11 +395,11 @@
   <servlet-mapping>
     <servlet-name>contactusDelete</servlet-name>
     <url-pattern>/contactusDelete</url-pattern>
-  </servlet-mapping>
+  </servlet-mapping> -->
 
 
 
-<servlet>
+<!-- <servlet>
     <description></description>
     <display-name>contact_us_edit</display-name>
     <servlet-name>contact_us_edit</servlet-name>
@@ -387,7 +408,7 @@
   <servlet-mapping>
     <servlet-name>contact_us_edit</servlet-name>
     <url-pattern>/contact_us_edit</url-pattern>
-  </servlet-mapping>
+  </servlet-mapping> -->
   
   
   

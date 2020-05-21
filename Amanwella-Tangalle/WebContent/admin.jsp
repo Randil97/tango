@@ -135,9 +135,7 @@
               </div>
               <div class="extra content">
                 <div class="ui two buttons">
-                <div class="ui red button">
                   <a href="supplier_index.jsp"><div class="ui red button" style="color:white;">Supplier Management</div></a>
-                </div>
                 </div>
               </div>
             </div>
@@ -241,7 +239,7 @@
               </div>
               <div class="extra content">
                 <div class="ui two buttons">
-                  <div class="ui red button" style="color:white;">
+                  <div class="ui two buttons" style="color:white;">
                   <a href="res_sevlet"><div class="ui red button" >Room Reservation Management</div></a>
                 </div>
                 </div>
@@ -270,7 +268,7 @@
               </div>
               <div class="extra content">
                 <div class="ui two buttons">
-                  <div class="ui green button">Inventory Management</div>
+                  <a href="inventory_count"><div class="ui green button">Inventory Management</div></a>
                 </div>
               </div>
             </div>

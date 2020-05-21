@@ -113,11 +113,11 @@
 		  color: #EF3B3A;
 		}
 		body {
-		  background: #76b852; /* fallback for old browsers */
+		  background: #f5f0f0; /* fallback for old browsers */
 		  background: -webkit-linear-gradient(right, #76b852, #8DC26F);
 		  background: -moz-linear-gradient(right, #76b852, #8DC26F);
 		  background: -o-linear-gradient(right, #76b852, #8DC26F);
-		  background: linear-gradient(to left, #76b852, #8DC26F);
+		  background: linear-gradient(to left, #ffffff, #000000);
 		  font-family: "Roboto", sans-serif;
 		  -webkit-font-smoothing: antialiased;
 		  -moz-osx-font-smoothing: grayscale;      
@@ -140,7 +140,7 @@
 
 	<div class="reg-log-main-div">
 	<div class="mainImgDiv">
-			<img src="img/log-reg/IMG_9827.JPG">
+			<img src="img/log-reg/well.jpg">
 	</div>
 	<div class="mainFormDiv mainFormDiv-log" >
 			<div class="trpdiv">
