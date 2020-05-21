@@ -25,9 +25,9 @@
     <link rel="stylesheet" href="css/indexcss/jquery.timepicker.css">
 
     
-    <link rel="stylesheet" href="css/indexcss/flaticon.css">
-    <link rel="stylesheet" href="css/indexcss/icomoon.css">
-    <link rel="stylesheet" href="css/indexcss/style.css">
+    <link rel="stylesheet" href="indexcss/flaticon.css">
+    <link rel="stylesheet" href="indexcss/icomoon.css">
+    <link rel="stylesheet" href="indexcss/style.css">
 </head>
 <body>
 	
@@ -338,7 +338,7 @@
                   <div><a href="#"></a></div>
                   <div><a href="#" class="meta-chat"><span class="icon-chat"></span> </a></div>
                 </div>
-                <h3 class="heading"><a href="#">Amanwellaâ€™s secluded jungle setting creates an intimate, celebratory atmosphere suited to occasions large and small</a></h3>
+                <h3 class="heading"><a href="#">Amanwella secluded jungle setting creates an intimate, celebratory atmosphere suited to occasions large and small</a></h3>
               </div>
             </div>
           </div>
