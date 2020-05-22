@@ -42,10 +42,10 @@
 	        <ul class="navbar-nav ml-auto">
 	          <li class="nav-item active"><a href="index.jsp" class="nav-link"><h6>Home</h6></a></li>
 	          <li class="nav-item"><a href="user-reservation.jsp" class="nav-link"><h6>Accommodation</h6></a></li>
-	          <li class="nav-item"><a href="" class="nav-link"><h6>Event And Activities</h6></a></li>
+	          <li class="nav-item"><a href="events.jsp" class="nav-link"><h6>Event And Activities</h6></a></li>	
 	          <li class="nav-item"><a href="" class="nav-link"><h6>Restaurant</h6></a></li>
 	          <li class="nav-item"><a href="inventory.jsp" class="nav-link"><h6>Inventories</h6></a></li>
-	          <li class="nav-item"><a href="" class="nav-link"><h6>Tours</h6></a></li>
+	          <li class="nav-item"><a href="Travelindex.jsp" class="nav-link"><h6>Tours</h6></a></li>
 	          <li class="nav-item"><a href="contact_home.jsp" class="nav-link"><h6>Contact-Us</h6></a></li>
 	          
 	        </ul>

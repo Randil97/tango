@@ -105,8 +105,26 @@
   </servlet-mapping>
   
   
-  
-  
+   <!-- <servlet>
+    <description></description>
+    <display-name>Jasper</display-name>
+    <servlet-name>Jasper</servlet-name>
+    <servlet-class>kavindu.report.Jasper</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Jasper</servlet-name>
+    <url-pattern>/Jasper</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>Jasper2</display-name>
+    <servlet-name>Jasper2</servlet-name>
+    <servlet-class>kavindu.report.JaspJasper2er</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Jasper2</servlet-name>
+    <url-pattern>/Jasper2</url-pattern>
+  </servlet-mapping> -->
   
   
   
@@ -476,6 +494,103 @@
     <servlet-name>staff_lea</servlet-name>
     <url-pattern>/staff_lea</url-pattern>
   </servlet-mapping>
+
+
+
+
+
+
+<!-- 
+
+
+<servlet>
+    <description></description>
+    <display-name>event_edit_delete</display-name>
+    <servlet-name>event_edit_delete</servlet-name>
+    <servlet-class>Controllers.event_edit_delete</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>event_edit_delete</servlet-name>
+    <url-pattern>/event_edit_delete</url-pattern>
+  </servlet-mapping>
+  
+  
+  
+  
+  <servlet>
+    <description></description>
+    <display-name>event_list</display-name>
+    <servlet-name>event_list</servlet-name>
+    <servlet-class>Controllers.event_list</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>event_list</servlet-name>
+    <url-pattern>/event_list</url-pattern>
+  </servlet-mapping>
+  
+  
+  
+  
+  
+  <servlet>
+    <description></description>
+    <display-name>event_servlet</display-name>
+    <servlet-name>event_servlet</servlet-name>
+    <servlet-class>Controllers.event_servlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>event_servlet</servlet-name>
+    <url-pattern>/event_servlet</url-pattern>
+  </servlet-mapping>
+  
+  
+  
+  <servlet>
+    <description></description>
+    <display-name>event_sev2</display-name>
+    <servlet-name>event_sev2</servlet-name>
+    <servlet-class>Controllers.event_sev2</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>event_sev2</servlet-name>
+    <url-pattern>/event_sev2</url-pattern>
+  </servlet-mapping>
+  
+  
+  
+  
+  <servlet>
+    <description></description>
+    <display-name>event_sev3</display-name>
+    <servlet-name>event_sev3</servlet-name>
+    <servlet-class>Controllers.event_sev3</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>event_sev3</servlet-name>
+    <url-pattern>/event_sev3</url-pattern>
+  </servlet-mapping> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- <servlet>

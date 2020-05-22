@@ -160,7 +160,7 @@
               </div>
               <div class="extra content">
                 <div class="ui two buttons">
-                  <a href="staff_servlet">t<div class="ui green button">Staff Management</div></a>
+                  <a href="staff_servlet"><div class="ui green button">Staff Management</div></a>
                 </div>
               </div>
             </div>
@@ -185,7 +185,7 @@
               </div>
               <div class="extra content">
                 <div class="ui two buttons">
-                  <div class="ui teal button">Event Management</div>
+                 <a href="event_list"><div class="ui teal button">Event Management</div>
                 </div>
               </div>
             </div>
