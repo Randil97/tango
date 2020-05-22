@@ -129,11 +129,11 @@
 					</div>
 					<div class="add_new_supplier_btn">
 						<!-- <button class="btn btn-success" onclick="window.location.href='Jasper'">SUPPLIER INFORMATION REPORT</button> -->
-						<button class="btn btn-success" onclick="window.location.href='supplierReport.jsp'">SUPPLIER INFORMATION REPORT</button>
+						<button class="btn btn-success" onclick="window.location.href='supplierReport.jsp'">SUPPLIER REPORT</button>
 					</div>
 					<div class="add_new_supplier_btn">
 						<!--<button class="btn btn-info" onclick="window.location.href='Jasper2'">DELIVERY INFORMATION REPORT</button> -->
-						<button class="btn btn-info" onclick="window.location.href='DeliverReport.jsp'">DELIVERY INFORMATION REPORT</button>
+						<button class="btn btn-info" onclick="window.location.href='DeliverReport.jsp'">DELIVERY REPORT</button>
 					</div>
 						<table  id="supplier_table" class="table">
 							<thead>
